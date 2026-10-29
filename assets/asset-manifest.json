@@ -1,0 +1,36 @@
+{
+  "brand": "Babbies Care",
+  "status": "starter manifest; not a verified product catalog",
+  "rules": [
+    "Use genuine supplier/manufacturer images for the exact SKU being sold.",
+    "AI-generated imagery may be used for generic editorial/category banners, not to misrepresent an actual product.",
+    "Record source, license/permission, SKU match, alt text and review status before publishing."
+  ],
+  "folders": [
+    "public/brand/",
+    "public/banners/",
+    "public/categories/",
+    "public/products/<SKU>/",
+    "public/editorial/",
+    "public/icons/"
+  ],
+  "image_specs": {
+    "product_listing": "1:1 square, consistent crop, neutral background, optimized WebP/AVIF",
+    "product_detail": "1:1 or 4:5 based on actual photography, no stretching",
+    "homepage_hero": "Use original Figma frame ratio and export at suitable 2x resolution",
+    "category_visual": "Consistent style, clear subject, optimized file size",
+    "editorial": "Use licensed/original lifestyle imagery; descriptive alt text"
+  },
+  "suggested_categories": [
+    "Diapers & Wipes",
+    "Feeding",
+    "Bath & Skincare",
+    "Clothing",
+    "Strollers & Travel",
+    "Car Seats",
+    "Toys & Learning",
+    "Nursery & Furniture",
+    "Health & Safety",
+    "Maternity & Postpartum"
+  ]
+}
